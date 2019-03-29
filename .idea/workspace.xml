@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afe0c1be-02e4-4d7f-9823-8a8e85c224f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/word embeddings/glove_keras.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word embeddings/wb_keras.py" beforeDir="false" afterPath="$PROJECT_DIR$/word embeddings/wb_keras.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/word embeddings/glove_keras.py" beforeDir="false" afterPath="$PROJECT_DIR$/word embeddings/glove_keras.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,10 +37,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/word embeddings/glove_keras.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+            <state relative-caret-position="63">
+              <caret line="64" selection-start-line="64" selection-start-column="2" selection-end-line="65" selection-end-column="40" />
               <folding>
-                <element signature="e#184#207#0" expanded="true" />
+                <element signature="e#1#24#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -68,6 +68,7 @@
     <findStrings>
       <find>FreqDist</find>
       <find>load_train_test_imdb_data</find>
+      <find>labels</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -88,8 +89,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1575" />
-    <option name="y" value="214" />
+    <option name="x" value="3" />
+    <option name="y" value="23" />
     <option name="width" value="1427" />
     <option name="height" value="797" />
   </component>
@@ -263,7 +264,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1575" y="214" width="1427" height="797" extended-state="0" />
+    <frame x="3" y="23" width="1427" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15433855" />
@@ -271,7 +272,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39007092" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40992907" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -322,10 +323,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/word embeddings/glove_keras.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+        <state relative-caret-position="63">
+          <caret line="64" selection-start-line="64" selection-start-column="2" selection-end-line="65" selection-end-column="40" />
           <folding>
-            <element signature="e#184#207#0" expanded="true" />
+            <element signature="e#1#24#0" expanded="true" />
           </folding>
         </state>
       </provider>
