@@ -51,6 +51,7 @@ print("padded versions of each document are printed, making them all uniform len
 print(padded_docs)
 
 # The Embedding layer is defined as the first hidden layer of a network. It must specify 3 arguments: input_dim, output_dim, and input_length;
+# input dimension = total vocab size + 1
 # The Embedding has a vocabulary of 50 and an input length of 4. We will choose a small embedding space of 8 dimensions.
 # output: The model is a simple binary classification model. Importantly, the output from the Embedding layer will be 4 vectors of 8 dimensions each,
 # one for each word. We flatten this to a one 32-element vector to pass on to the Dense output layer.
