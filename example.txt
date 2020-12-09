@@ -1,2 +1,0 @@
-* https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/
-* label encoder: # https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html
