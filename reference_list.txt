@@ -1,2 +1,5 @@
 * https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/
 * label encoder: # https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html
+* https://medium.com/analytics-vidhya/text-classification-using-word-embeddings-and-deep-learning-in-python-classifying-tweets-from-6fe644fcfc81
+* https://towardsdatascience.com/multi-class-text-classification-with-lstm-1590bee1bd17
+* http://stats.stackexchange.com/questions/270546/how-does-keras-embedding-layer-worktomr

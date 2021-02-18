@@ -60,7 +60,7 @@ print(padded_docs)
 model = Sequential()
 model.add(Embedding(vocab_size, 8, input_length=max_length))
 model.add(Flatten())
-model.add(Dense(1, activation='sigmoid'))
+model.add(Dense(1, activation='sigmoid')) #1 as the classifier is binary
 # compile the model
 model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['acc'])
 # summarize the model
