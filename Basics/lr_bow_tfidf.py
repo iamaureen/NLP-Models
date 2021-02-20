@@ -24,9 +24,9 @@ Two types of evaluation:
 
 import pandas as pd
 
-filepath_dict = {'yelp':   'yelp_labelled.txt',
-                 'amazon': 'amazon_cells_labelled.txt',
-                 'imdb':   'imdb_labelled.txt'}
+filepath_dict = {'yelp':   '../Data/yelp_labelled.txt',
+                 'amazon': '../Data/amazon_cells_labelled.txt',
+                 'imdb':   '../Data/imdb_labelled.txt'}
 
 df_list = []
 for source, filepath in filepath_dict.items():

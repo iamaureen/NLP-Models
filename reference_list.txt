@@ -3,3 +3,5 @@
 * https://medium.com/analytics-vidhya/text-classification-using-word-embeddings-and-deep-learning-in-python-classifying-tweets-from-6fe644fcfc81
 * https://towardsdatascience.com/multi-class-text-classification-with-lstm-1590bee1bd17
 * http://stats.stackexchange.com/questions/270546/how-does-keras-embedding-layer-worktomr
+* https://towardsdatascience.com/pre-trained-word-embedding-for-text-classification-end2end-approach-5fbf5cd8aead
+* https://towardsdatascience.com/understanding-word-embeddings-with-tf-idf-and-glove-8acb63892032
