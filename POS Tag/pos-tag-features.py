@@ -164,6 +164,22 @@ preds = clf.predict(X_test)
 print(accuracy_score(y_test, preds))
 
 print(confusion_matrix(y_test, preds))
+
+print("----------")
+
+from sklearn import svm
+from sklearn.metrics import classification_report
+
+classifier_linear = svm.SVC(kernel='linear')
+classifier_linear.fit(X_train, y_train)
+prediction_linear = classifier_linear.predict(X_test)
+report = classification_report(y_test, prediction_linear, output_dict=True)
+
+#https://stackoverflow.com/questions/41592661/determining-the-most-contributing-features-for-svm-classifier-in-sklearn
+# coef_ for SVM classifier but it only works for SVM with linear kernel.
+# For other kernels it is not possible because data are transformed by kernel method to another space, which is not related to input space
+print(classifier_linear.coef_)
+
 #
 # for train_index, test_index in skf.split(x,y):
 #     print("TRAIN:", train_index, "TEST:", test_index)
